@@ -1,0 +1,1 @@
+[{"subject": "english", "completedportion": 75, "weightageofsub": 80}, {"subject": "science", "completedportion": 60, "weightageofsub": 70}, {"subject": "hindi", "completedportion": 65, "weightageofsub": 70}]
